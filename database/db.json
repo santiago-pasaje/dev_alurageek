@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "Monster Energy Zero Ultra",
+      "price": "5600",
+      "image": "https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.prd.freshop.retail.ncrgov.com/00070847020905/61e0f8b36eb31d9ff9d03c8941e934f0_large.png&width=512&type=webp&quality=90",
+      "id": "1"
+    },
+    {
+      "name": "Monster Energy Ultra Sunrise",
+      "price": "5600",
+      "image": "https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.prd.freshop.retail.ncrgov.com/00070847012474/22a309d5021c144188fdedf9dd542a12_large.png&width=512&type=webp&quality=90",
+      "id": "2"
+    }
+  
+    ,{
+      "name": "Monster Energy Zero Ultra",
+      "price": "5600",
+      "image": "https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.prd.freshop.retail.ncrgov.com/00070847020905/61e0f8b36eb31d9ff9d03c8941e934f0_large.png&width=512&type=webp&quality=90",
+      "id": "3"
+    }
+  ]
+}
